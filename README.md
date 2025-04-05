@@ -4,8 +4,7 @@
 
 ## Features
 
-- HTML container elements
-- HTML list
+- HTML container element
 - CSS variable
 - CSS layouts
 - CSS positioning
