@@ -1,7 +1,17 @@
+:root {
+  --body-color: #f1f1f1;
+  --container-color: #333;
+  --text-color: #fff;
+}
+
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+}
+
+body {
+  background-color: var(--body-color);
 }
 
 .card {
@@ -32,8 +42,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #333;
-  color: #fff;
+  background-color: var(--container-color);
+  color: var(--text-color);
   border-radius: 8px;
   backface-visibility: hidden;
 }
