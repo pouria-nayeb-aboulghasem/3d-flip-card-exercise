@@ -21,4 +21,4 @@
 
 ## Screenshot
 
-![Screenshot of multiple group cube exercise](./preview.png)
+![Screenshot of 3d flip card exercise](./preview.png)
